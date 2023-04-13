@@ -1,0 +1,14 @@
+.reporter-info{
+    display: flex;
+    align-items: center;
+}
+.reporter-avatar{
+    height: 50px;
+    width: 50px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 3em;
+}
+.reporter-name {
+    padding-left: 1em;
+}
